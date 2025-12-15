@@ -1,104 +1,136 @@
 <h1 align="center">Hi 👋, I'm Shatakshi Gupta</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Undergraduate | Software Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749914-7c66d6b0-11d0-4d6f-bf2b-7c8a3e6c9f2e.png" width="300"/>
+  📍 Bengaluru, India  
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanmaygupta7781">
-    <img src="https://img.shields.io/github/followers/tanmaygupta7781?label=Followers&style=social" />
+  <a href="https://github.com/shatakshig21">
+    <img src="https://img.shields.io/github/followers/shatakshig21?label=Followers&style=social" />
   </a>
-  <a href="https://github.com/tanmaygupta7781">
-    <img src="https://img.shields.io/github/stars/tanmaygupta7781?label=Stars&style=social" />
+  <a href="https://github.com/shatakshig21">
+    <img src="https://img.shields.io/github/stars/shatakshig21?label=Stars&style=social" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 **B.E. Computer Science Engineering** @ Bangalore Institute of Technology (GPA: **8.8/10**)
-- 💼 Former **Project Intern @ Oracle Financial Services Software**
-- 🧠 Interested in **AI/ML, Cloud, Full Stack Development**
-- 🚀 Exploring **Advanced ML & System Design**
-- 📍 Bengaluru, India
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,nodejs,express,mysql,git,github,aws,azure,jenkins,docker&theme=dark" />
-</p>
+- 🎓 **B.E. in Computer Science & Engineering**  
+  **Bangalore Institute of Technology** (GPA: **8.83 / 10**)  
+- 💼 Former **Project Intern at Oracle Financial Services Software**
+- 🔧 Strong foundation in **software development & database optimization**
+- 🤖 Passionate about **AI/ML, Cloud Computing, and Full-Stack Development**
+- 📈 Delivered **40% performance improvement** during industry internship
 
 ---
 
 ## 💼 Experience
 
-**Oracle Financial Services Software – Project Intern**  
-📍 Bengaluru | 🗓 Jun 2025 – Aug 2025  
+### 🏢 Oracle Financial Services Software — *Project Intern*  
+📍 Bengaluru, Karnataka | 🗓 June 2025 – August 2025  
 
-- Developed & optimized **PL/SQL packages, procedures & schedulers**
-- Built **REST APIs** and RAD-based application screens
-- Automated deployments using **Git, Linux & shell scripting**
-- Worked on **Oracle FLEXCUBE** banking modules
+- Engineered a **selective data migration framework** for Term Deposit (TD) accounts, reducing redundant transfers by **40%**
+- Built **custom RAD screens** with JavaScript-based field behavior, LOV population, and data block linkages
+- Generated RAD artifacts and exposed them as **REST APIs** for real-time frontend–backend interaction
+- Implemented **PL/SQL logic** to parse, transform, and persist structured financial data
+
+---
+
+## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,sql,git,github,docker,aws,azure,jenkins&theme=dark" />
+</p>
+
+**Programming Languages:**  
+C++, Java, Python, JavaScript  
+
+**Databases:**  
+SQL, PL/SQL  
+
+**Web Technologies:**  
+HTML, CSS, React.js  
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, Load Balancer), Azure DevOps, Jenkins  
+
+**Developer Tools:**  
+Docker, Git, GitHub  
 
 ---
 
 ## 🚀 Projects
 
+### 🎯 Threat Detection using Machine Learning
+**(YOLOv8, OpenCV, SMTP)**  
+- Built a **real-time weapon detection system** using YOLOv8 + OpenCV  
+- Achieved **92% detection accuracy** on test datasets  
+- Reduced inference latency by **35%** using selective frame sampling  
+- Implemented **SMTP-based automated alerts** with time-stamped images  
+
+---
+
 ### 🔐 AI Resume Analyzer
-- Full-stack app using **React + Node.js**
-- **JWT Authentication** & protected APIs
-- Resume parsing (PDF/DOCX)
-- AI analysis using **LLM (Hugging Face)**
+**(React.js, Docker, AI API, JWT Authentication)**  
+- Developed a web app to **analyze resumes using AI**
+- Extracts **skills, education, and experience**
+- Compares resumes with job descriptions to generate:
+  - Match score
+  - Improvement suggestions
+- Implemented **JWT-based authentication** for secure access
+- Containerized application using **Docker** and published images for deployment
 
-### 🎯 Threat Detection using ML
-- Real-time weapon detection using **YOLOv8**
-- **OpenCV** for video processing
-- Email alerts via **SMTP**
-- Optimized for real-time inference
+---
 
-### 🥗 Customized Diet Plan Generator
-- HTML, CSS, JavaScript based system
-- Health insights using blood report analysis
+## 📚 Relevant Coursework
+
+- Data Structures & Algorithms  
+- Database Management Systems  
+- Operating Systems  
+- Computer Networks  
+- Data Visualization with Python  
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Oracle Cloud Infrastructure (OCI) – AI Foundations
-- ☁️ AWS Cloud Workshop (EC2, Linux, CLI)
+- ☁️ **AWS Cloud Workshop** — July 2024  
+  Hands-on experience with EC2, Load Balancers, S3, IAM & scalability  
+
+- 🤖 **Oracle University – AI Foundations Certification** — August 2025  
+  Fundamentals of AI/ML, supervised & unsupervised learning, AI ethics  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaygupta7781&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shatakshig21&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygupta7781&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shatakshig21&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
+  <a href="mailto:shatakshigupta21@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:tanmaygupta2601@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/tanmaygupta7781">
+  <a href="https://github.com/shatakshig21">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-⭐ *Feel free to explore my repositories and drop a star if you like my work!*
+⭐ *Always open to learning, collaboration, and solving real-world problems with technology.*
